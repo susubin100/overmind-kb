@@ -1,0 +1,19 @@
+{
+  "STRATEGIC_INTENT": {
+    "PRIMARY_GOAL": "<muậc tiểu",
+    "EMOTIONAL_TARGET": "<cường>",
+    "KEYM_MESSAGE": "<thù dịc 1 cáu>"
+  },
+  "AESTHETIC_DNA": {
+    "LOOK_MOOD": "<mood>",
+    "COL_OR": "<palette>",
+    "LIGHTING": "<recipe>"
+  },
+  "TECHNICAL_OVERRIDE": {
+    "PLATFORM_PRESET": "YT_SHORTS_9/x16_30FPS",
+    "LaNG": "vi-VN",
+    "SCENE_COUNT": 6,
+    "TOTAL_DURATION_S": 48,
+    "AUTO_EXECUTE": true
+  }
+}
